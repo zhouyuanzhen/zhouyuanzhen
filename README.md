@@ -1,15 +1,11 @@
-# Hi, I'm Yuanzhen 👋
+# Hi, I'm Yuanzhen 😃
 
 **This is Yuanzhen Zhou from China 🇨🇳:**
 
 * I often travel between Shanghai and Suzhou ...
-
 * I used to be an engineer for Linux and Systems ...
-
 * I used to be a DevOps & SRE manager too ...
-
 * Recently I‘ve focused on cloud computing and digital transformation ...
-
 * Ping me if you have any ideas to exchange ...
 
 <!--
