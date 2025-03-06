@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ## Find me around the world 🌍 :
 
-[![GitHub](https://img.shields.io/badge/GitHub-zhouyuanzhen-4BC51D.svg?style=flat&logo=GitHub&link=https://github.com/zhouyuanzhen)](https://github.com/zhouyuanzhen)[![Linkedin Badge](https://img.shields.io/badge/-YuanzhenZhou-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuanzhenzhou)](https://www.linkedin.com/in/yuanzhenzhou)[![Gmail Badge](https://img.shields.io/badge/-szrednick@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:szrednick@gmail.com)](mailto:szrednick@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-zhouyuanzhen-4BC51D.svg?style=flat&logo=GitHub&link=https://github.com/zhouyuanzhen)](https://github.com/zhouyuanzhen)[![Linkedin Badge](https://img.shields.io/badge/-YuanzhenZhou-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhouyuanzhen/)](https://www.linkedin.com/in/zhouyuanzhen/)[![Gmail Badge](https://img.shields.io/badge/-szrednick@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:szrednick@gmail.com)](mailto:szrednick@gmail.com)
